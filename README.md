@@ -28,5 +28,6 @@ Sorted collection of Python projects from 2019-2020, exploring different librari
 
 ## Screenshots:
 optional, add later?
+add requirements.txt
 
 
