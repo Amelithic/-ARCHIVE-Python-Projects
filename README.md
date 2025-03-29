@@ -33,7 +33,7 @@ Due to the age of these projects, made in 2019 using Python 3.8 or so, some of t
 | Tkinter | 5 - Test Button and Text Entry | 27/12/2019 | When button is pressed, the contents of text field is printed to console. |
 | Tkinter | 6 - Text Input Example | 23/04/2020 | Adds the contents of the text field to a text area within the app. |
 | Tkinter | Chatbot | 25/04/2020 | The 4th version of a simple chatbot app. User can enter a username, then it opens a chat interface in which certain keywords trigger the bot to respond. |
-|--|--|--|--|
+| | | | |
 | Turtle | 1 - PONG | 29/11/2019 | A simple 2-player pong game created using the 'turtle' library. |
 | Turtle | 2 - Multicolour Spiral 1 | 28/12/2019 | Draws a spiral using a list of rainbow colours. |
 | Turtle | 3 - Spiral with user input | 28/12/2019 | Draws a spiral using values inputted by the user (note: size and speed values do not work) |
