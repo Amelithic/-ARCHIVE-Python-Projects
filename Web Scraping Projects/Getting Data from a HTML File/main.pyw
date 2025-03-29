@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import os
 
-fillet = r'C:\Users\AwesomeAmélie\Desktop\web_scrape\test.html'
+fillet = r'.\test.html'
 with open(fillet) as html_file:
     soup = BeautifulSoup(html_file, 'lxml')
 
