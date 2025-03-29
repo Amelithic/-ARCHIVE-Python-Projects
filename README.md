@@ -10,7 +10,6 @@ Sorted collection of Python projects from 2019-2020, exploring different librari
     - Kivy 
 - 2D Graphics generation
     - Turtle
-    - Processing
 - 3D Graphics generation
     - Ursina
     - Panda3D
