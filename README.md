@@ -20,11 +20,19 @@ Sorted collection of Python projects from 2019-2020, exploring different librari
 	- Discord bot
 	- Voice Recognition
 
-Due to the age of these projects, made in 2019 using Python 3.8 or so, some of these may not run or may require older versions of libraries.
+Due to the age of these projects, made in 2019 using Python 3.7.1 to Python 3.8.2 or so, some of these may not run or may require older versions of libraries.
 
 ## Contents:
 | **Folder** | **Project** | **Date** | **Description** |
 |--|--|--|--|
+| General | 1 - FirstProject | 03/12/2019 | My first Python project - a game that guesses if the inputted number is above, below or equal to ten. |
+| General | 2 - Sorting txt File Contents | 08/05/2020 | Opens the languages.txt file, converts to an array split by newline and writes into file. |
+| General | 3 - Python Loops | 08/05/2020 | Uses a variety of loops, asks the user to input a value, and returns a corresponding result, based on sample affirmations. Follows Amazon's python course from 2020. |
+| General | 4 - Python Parameters | 10/05/2020 | Examples of functions using parameters. |
+| General | 5 - amazonchat | 10/05/2020 | An expanded version of a chat bot challenge in Amazon's python course from 2020. May use Processing.py for the interface, but unsure as no relevant library imported. |
+| General | 6 - Password Generator | 07/07/2020 | Generates a random password after user selects y/n. |
+| General | 7 - Random String Password Generator | 07/07/2020 | Generates a series of 5000 random passwords. |
+| | | | |
 | Tkinter | 1 - Custom Filetype Converter | 05/12/2019 | An example test of a GUI for converting filetypes from text to a custom AMLT filetype |
 | Tkinter | 2 - Keypresser | 08/12/2019 | Text field that overrides to show which key is pressed |
 | Tkinter | 3 - Amelitext | 08/12/2019 | A custom notepad app, allowing the files to be saved or to be opened |
