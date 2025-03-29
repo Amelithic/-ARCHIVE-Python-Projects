@@ -44,6 +44,8 @@ Due to the age of these projects, made in 2019 using Python 3.8 or so, some of t
 | Turtle | 9 - Using Buttons to Control Turtle | 08/07/2020 | Allows the user to move the turtle pen using on-screen Tkinter buttons |
 | Turtle | 10 - Turtle Combat Game | 08/07/2020 | 2D Game in which every few moves the user makes, an enemy spawns and can be killed by the user moving on top of it. However, doesn't work consistently, despite being edited in 2025 to make it more playable |
 | Turtle | Turtle Grid Game | 08/07/2020 | A simple game where the player must collect a cherry fruit to gain points. Secret messages are hidden at certain milestones of points. |
+| | | | |
+| Ursina 3D | Minecraft-in-Python-Main | 13/12/2020 | A small Minecraft-inspired demo using the Python Ursina engine, with 4 different block types. Created while following a YouTube tutorial series. |
 
 
 *Note: These files have been renamed for more easy navigation and understanding of what they do.*
