@@ -54,6 +54,12 @@ Due to the age of these projects, made in 2019 using Python 3.7.1 to Python 3.8.
 | Turtle | Turtle Grid Game | 08/07/2020 | A simple game where the player must collect a cherry fruit to gain points. Secret messages are hidden at certain milestones of points. |
 | | | | |
 | Ursina 3D | Minecraft-in-Python-Main | 13/12/2020 | A small Minecraft-inspired demo using the Python Ursina engine, with 4 different block types. Created while following a YouTube tutorial series. |
+| | | | |
+| Web Scraping | 1 - Simple BeautifulSoup4 Example | 11/02/2020 | Uses the 'BeautifulSoup4' and 'requests' libraries to parse a timeanddate.com webpage and print a specific element |
+| Web Scraping | 2 - Controlling Browser | 21/04/2020 | Uses the 'Selenium' library to control the browser and surprise the user! |
+| Web Scraping | 3 - Click Through Pages | 21/04/2020 | Uses the 'Selenium' library to parse a timeanddate.com webpage and click through a series of pages to reach the desired information, before printing it to the console. |
+| Web Scraping | 4 - Printing Page Contents | 21/04/2020 | Uses the 'Selenium' library to parse a timeanddate.com webpage and print all of the specified element to the console. |
+| Web Scraping | Getting Data from a HTML File | 11/02/2020 | Uses the 'BeautifulSoup4' and 'requests' libraries to parse a HTML file and print specific element types. |
 
 
 *Note: These files have been renamed for more easy navigation and understanding of what they do.*
